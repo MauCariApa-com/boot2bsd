@@ -1,0 +1,5 @@
+{
+  "name": "Boot2BSD Simulator",
+  "description": "An educational Unix simulation based on Boot2BSD, featuring a boot sequence, login, and interactive shell.",
+  "requestFramePermissions": []
+}
