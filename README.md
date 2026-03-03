@@ -77,7 +77,7 @@ This project is released under the **BSD 2-Clause License**. See the `LICENSE` f
 
 Support the Project
 If you find this project useful and want to help keep it alive, consider tossing a few coins into the jar. Every donation helps cover hosting costs and fuels further development.
-[ ![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png) ](https://paypal.me/kodester)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/kodester/).
 
 ## Contributors
 - **MauCariApa.com** - Core Contributor & Search Logic Optimization
