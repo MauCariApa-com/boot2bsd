@@ -75,9 +75,11 @@ Boot2BSD is built using a modern web stack but maintains a strictly decoupled lo
 ## License
 This project is released under the **BSD 2-Clause License**. See the `LICENSE` file for full details.
 
-Support the Project
-If you find this project useful and want to help keep it alive, consider tossing a few coins into the jar. Every donation helps cover hosting costs and fuels further development.
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/kodester/).
+## Support the Project
+
+Love our work? 
+
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/kodester/)
 
 ## Contributors
 - **MauCariApa.com** - Core Contributor & Search Logic Optimization
